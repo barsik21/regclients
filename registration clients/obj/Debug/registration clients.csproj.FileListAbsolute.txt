@@ -1,0 +1,75 @@
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\Hello,User!.g.cs
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\Window_Registration_and_LogIn.g.cs
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients_MarkupCompile.cache
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients_MarkupCompile.lref
+C:\Users\пк\Desktop\registration clients\registration clients\bin\Debug\registration clients.exe.config
+C:\Users\пк\Desktop\registration clients\registration clients\bin\Debug\registration clients.exe
+C:\Users\пк\Desktop\registration clients\registration clients\bin\Debug\registration clients.pdb
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\Hello,User!.baml
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\Window_Registration_and_LogIn.baml
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients.g.resources
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration_clients.Properties.Resources.resources
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients.exe
+C:\Users\пк\Desktop\registration clients\registration clients\obj\Debug\registration clients.pdb
+C:\Users\barsik\Desktop\registration clients\registration clients\bin\Debug\registration clients.exe.config
+C:\Users\barsik\Desktop\registration clients\registration clients\bin\Debug\registration clients.exe
+C:\Users\barsik\Desktop\registration clients\registration clients\bin\Debug\registration clients.pdb
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients.csprojAssemblyReference.cache
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\Hello,User!.g.cs
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\Window_Registration_and_LogIn.g.cs
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\App.g.cs
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients_MarkupCompile.cache
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients_MarkupCompile.lref
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\Hello,User!.baml
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\Window_Registration_and_LogIn.baml
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients.g.resources
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration_clients.Properties.Resources.resources
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients.csproj.GenerateResource.cache
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients.csproj.CoreCompileInputs.cache
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients.exe
+C:\Users\barsik\Desktop\registration clients\registration clients\obj\Debug\registration clients.pdb
+C:\Users\пк\Desktop\registration clients1\registration clients\bin\Debug\registration clients.exe.config
+C:\Users\пк\Desktop\registration clients1\registration clients\bin\Debug\registration clients.exe
+C:\Users\пк\Desktop\registration clients1\registration clients\bin\Debug\registration clients.pdb
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\Window_Registration_and_LogIn.g.cs
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients_MarkupCompile.cache
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients_MarkupCompile.lref
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\Window_Registration_and_LogIn.baml
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients.g.resources
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration_clients.Properties.Resources.resources
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients.exe
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\registration clients.pdb
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\Hello_User_.g.cs
+C:\Users\пк\Desktop\registration clients1\registration clients\obj\Debug\Hello_User_.baml
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\registration clients.exe.config
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\registration clients.exe
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\registration clients.pdb
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\Hello_User_.g.cs
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\Window_Registration_and_LogIn.g.cs
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\App.g.cs
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients_MarkupCompile.cache
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients_MarkupCompile.lref
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\Hello_User_.baml
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\Window_Registration_and_LogIn.baml
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients.g.resources
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration_clients.Properties.Resources.resources
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients.exe
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients.pdb
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\EntityFramework.dll
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\EntityFramework.xml
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\registration clients12\registration clients\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients_Content.g.cs
+C:\Users\пк\Desktop\registration clients12\registration clients\obj\Debug\registration clients.csproj.CopyComplete
