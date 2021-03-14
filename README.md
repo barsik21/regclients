@@ -1,4 +1,2 @@
 # testc
-# testing
-# testing
 # testProject
